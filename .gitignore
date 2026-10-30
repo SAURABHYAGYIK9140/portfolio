@@ -22,3 +22,4 @@ Thumbs.db
 # SQLite WAL temporary files
 data/*.db-wal
 data/*.db-shm
+

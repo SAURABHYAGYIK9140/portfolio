@@ -15,3 +15,4 @@ export const config: EnvironmentConfig = {
   corsOrigin: process.env.CORS_ORIGIN || '*',
   apiPrefix: process.env.API_PREFIX || '/api',
 };
+
